@@ -36,16 +36,16 @@
     
     Поглощающие состояния: q_blocked, q_err.
     
-    Таблица переходов
+Таблица переходов
    
    
-     <img width="1145" height="472" alt="Screenshot 2026-05-07 115601" src="https://github.com/user-attachments/assets/1dff71b6-89a6-4668-9340-db1d1a6f701a" />
+<img width="1145" height="472" alt="Screenshot 2026-05-07 115601" src="https://github.com/user-attachments/assets/1dff71b6-89a6-4668-9340-db1d1a6f701a" />
 
     
-    Графическая схема (Диаграмма состояний)
+Графическая схема (Диаграмма состояний)
     
     
-    <img width="661" height="819" alt="Screenshot 2026-05-07 115637" src="https://github.com/user-attachments/assets/8fda5085-c005-47b4-8163-94264f46a793" />
+<img width="661" height="819" alt="Screenshot 2026-05-07 115637" src="https://github.com/user-attachments/assets/8fda5085-c005-47b4-8163-94264f46a793" />
 
     
     
